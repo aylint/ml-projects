@@ -3,7 +3,7 @@
 ![ML](img/machine-learning-applications-header.png)
 
 
-A bunch of ML applications
+A bunch of example machine learning projects with real world applications 
 
 
 | Problem	| Methods	| Libs	| Repo  |
