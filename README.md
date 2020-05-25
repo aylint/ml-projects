@@ -8,6 +8,7 @@ A bunch of example machine learning projects with real world applications
 
 | Problem	| Methods	| Libs	| Repo  |
 | ---       | ---       | ---   | ---   |
-| Company Fault Prediction (Multivariate Classification) | Naive Bayes Classifier, Random Forest Classifier | sklearn, matplotlib | [company-fault-pred](https://github.com/aylint/company-fault-pred)|
+| Company Bankruptcy Prediction <br />(Multivariate Classification) | Naive Bayes Classifier, <br />Random Forest Classifier | `sklearn`, `matplotlib` | [company-fault-pred](https://github.com/aylint/company-fault-pred)|
+| Stock Price Prediction (regression)| Fuzzy Logic, ANFIS, time series, ensemble learning | `anfis`, `genfis`, `matlab` | [stock-price-anfis](https://github.com/aylint/stock-price-anfis) |
 
  
